@@ -13,7 +13,7 @@ Ejecuta en la raíz del proyecto:
 * npm install axios
 * npm install multer
 
-" 🚀 Cómo levantar el servidor
+# 🚀 Cómo levantar el servidor
 Desde la raíz del proyecto, ejecuta:
 * bash
 * node index.js
