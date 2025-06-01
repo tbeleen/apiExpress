@@ -10,7 +10,9 @@
   "license": "ISC",
   "description": "API de productos para FERREMAS",
   "dependencies": {
+    "axios": "^1.9.0",
     "express": "^5.1.0",
+    "multer": "^2.0.0",
     "oracledb": "^6.8.0"
   }
 }
